@@ -31,3 +31,12 @@ CRUD实现
 2. class 绑定，接口和Mapper文件必须同名，接口和Mapper配置文件必须在同一个包下
 3. name 扫描包进行绑定，接口和Mapper文件必须同名，接口和Mapper配置文件必须在同一个包下
 
+生命周期和作用域：  
+sqlSessionFactoryBuilder（创建完后即关闭）→sqlSessionFactory（连接池）→sqlSession（业务）
+
+字段名和属性不一致方法：
+1. sql字段起别名
+2. resultmap 结果集映射  column是数据库中的字段，property是实体类中的属性，一一对应
+
+日志：LOG4J，STDOUT_LOGGING
+
