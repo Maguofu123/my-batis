@@ -40,3 +40,5 @@ sqlSessionFactoryBuilder（创建完后即关闭）→sqlSessionFactory（连接
 
 日志：LOG4J，STDOUT_LOGGING
 
+# day5
+分页：减少数据量
