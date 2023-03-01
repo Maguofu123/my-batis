@@ -42,3 +42,6 @@ sqlSessionFactoryBuilder（创建完后即关闭）→sqlSessionFactory（连接
 
 # day5
 分页：减少数据量
+
+**注解开发**
+核心为反射机制
