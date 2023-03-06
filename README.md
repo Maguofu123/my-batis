@@ -46,4 +46,7 @@ sqlSessionFactoryBuilder（创建完后即关闭）→sqlSessionFactory（连接
 **注解开发**
 核心为反射机制
 
+# day6
 **搭建环境**
+
+多对一和一对多
