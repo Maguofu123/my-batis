@@ -45,3 +45,5 @@ sqlSessionFactoryBuilder（创建完后即关闭）→sqlSessionFactory（连接
 
 **注解开发**
 核心为反射机制
+
+**搭建环境**
