@@ -49,4 +49,9 @@ sqlSessionFactoryBuilder（创建完后即关闭）→sqlSessionFactory（连接
 # day6
 **搭建环境**
 
-多对一和一对多
+多对一(association)和一对多(collection)  
+javaType 和 ofType  
+1. javaType 用来指定实体类
+2. ofType 用来指定List泛型中的实体类
+
+动态sql
