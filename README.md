@@ -57,8 +57,8 @@ javaType 和 ofType
 
 
 # day7
-动态sql，在sql层面执行逻辑代码
+动态sql，在sql层面执行逻辑代码  
 `if`语句  
-`choose(when,other)`
-`trim(where,set)`
+`choose(when,other)`  
+`trim(where,set)`  
 
