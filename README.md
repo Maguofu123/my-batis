@@ -57,8 +57,11 @@ javaType 和 ofType
 
 
 # day7
-动态sql，在sql层面执行逻辑代码  
+**动态sql**，在sql层面执行逻辑代码  
 `if`语句  
 `choose(when,other)`  
 `trim(where,set)`  
+`sql`标签用于抽取公共部分 注意事项sql，基于单表，不要使用`where`标签
 
+**缓存(cache)**
+查询结果放在内存→缓存
