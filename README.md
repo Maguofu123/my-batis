@@ -54,4 +54,11 @@ javaType 和 ofType
 1. javaType 用来指定实体类
 2. ofType 用来指定List泛型中的实体类
 
-动态sql
+
+
+# day7
+动态sql，在sql层面执行逻辑代码
+`if`语句  
+`choose(when,other)`
+`trim(where,set)`
+
